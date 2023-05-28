@@ -12,11 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=synfinner&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=synfinner&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Latest Tweet
-<br>
-
-[![](https://gtce.itsvg.in/api?username=synfinner)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 <br>
 
