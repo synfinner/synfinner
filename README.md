@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi! I'm Synfinner. I currently do security research at [![](https://img.shields.io/badge/Microsoft-%230072C6.svg?style=plastic&logo=Microsoft&logoColor=white)](https://microsoft.com)<br><br>🌱 I’m currently working on learning more about AI/ML, Golang, Rust, Typescript, and more web development<br>💬 Happy to chat and learn<br>⚡ Fun fact, I've dabbled in several spoken/written languages including English (:P), Spanish, Norwegian (Bokmål), Russian, Hebrew, and German
+👋 Hi! I'm Synfinner.<br><br>🌱 I’m currently working on learning more about AI/ML, Golang, Rust, Typescript, and more web development<br>💬 Happy to chat and learn<br>⚡ Fun fact, I've dabbled in several spoken/written languages including English (:P), Spanish, Norwegian (Bokmål), Russian, Hebrew, and German
 
 ## Social Media:
 [![Website](https://img.shields.io/badge/Blog-GTFKD.com-blueviolet)](https://gtfkd.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/synfinner)
